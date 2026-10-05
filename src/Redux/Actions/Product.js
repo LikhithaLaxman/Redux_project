@@ -5,7 +5,7 @@ export const setProduct=(products)=>{
         type:ActionTypes.SET_PRODUCTS,
         payload:products,
     }
-};
+}
 
 
 export const selectedProduct=(product)=>{
